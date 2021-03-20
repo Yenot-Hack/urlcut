@@ -7,6 +7,7 @@
 urlcut es un sencillo acortador escrito en bash que enmascara un enlace en uno personalizado
 
 INSTALACIÓN
+
 clonamos el repositorio:
 ```
 $ 𝚐𝚒𝚝 𝚌𝚕𝚘𝚗𝚎 𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚈𝚎𝚗𝚘𝚝-𝙷𝚊𝚌𝚔/𝚞𝚛𝚕𝚌𝚞𝚝
